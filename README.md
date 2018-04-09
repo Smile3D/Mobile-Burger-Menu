@@ -1,5 +1,5 @@
 # Mobile-Burger-Menu
-
+Селектор контейнера навигации</br>
 <code>menuActiveClass: 'nav-active'</code> //Класс активного меню</br>
 <code>menuOpener: '.nav-opener'</code>     //Селектор открывающей ссылки</br>
 <code>hideOnClickOutside: true</code>      //Закрывать навигацию при клике снаружи</br>
